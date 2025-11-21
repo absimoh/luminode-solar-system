@@ -41,7 +41,6 @@ const planets = [
   { name: "SATURN", size: 6, dist: 75, tex: "saturn.jpg", speed: 0.009 },
   { name: "URANUS", size: 4.5, dist: 88, tex: "uranus.jpg", speed: 0.007 },
   { name: "NEPTUNE", size: 4.3, dist: 100, tex: "neptune.jpg", speed: 0.006 },
-  { name: "PLUTO", size: 1, dist: 112, tex: "pluto.jpg", speed: 0.005 }
 ];
 
 const planetMeshes = [];
